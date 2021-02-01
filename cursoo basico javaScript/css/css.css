@@ -1,0 +1,35 @@
+^{
+    margin: 8;
+    padding: 0;
+    font-family: sans-serif;
+}
+.section_1{
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url(../img/18857.jpg);
+    background-size: cover;
+    
+}
+.formulario{
+    max-width: 400px;
+    height: 400px;
+    background-color: darkseagreen;
+    margin: auto;
+    
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.formulario input{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    
+    outline: none;
+}
